@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Eric Burel photo](https://raw.githubusercontent.com/eric-burel/eric-burel/main/eric_burel_rounded_128.png)
-
 I am full-stack engineer from France 🇫🇷 and I own a company named LBKE. 
 
 ## My open source work
