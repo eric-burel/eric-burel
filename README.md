@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Eric Burel photo](https://raw.githubusercontent.com/eric-burel/eric-burel/main/eric_burel_rounded_128.png)
+
 I am full-stack engineer from France 🇫🇷 and I own a company named LBKE. 
 
 ## My open source work
@@ -8,7 +10,7 @@ I am the maintainer of Vulcan, an open source JavaScript toolkit.
 
 With Vulcan, you can create full-stack Next.js app and GraphQL apps in a matter of days:
 
-![[Vulcan Next logo](./vn-full-color-padded-1000-500.png)](https://vulcan-docs.vercel.app/)
+[![Vulcan Next logo](https://raw.githubusercontent.com/eric-burel/eric-burel/main/vn-full-color-padded-1000-500.png)](https://vulcan-docs.vercel.app/)
 
 You can find all my articles on [Medium](https://medium.com/@eric.burel)
 
@@ -19,10 +21,11 @@ For bigger companies: I modernize your technological stack, using the latest and
 
 If you live in France, you can get tax cuts when you hire me!
 
-My skills:
-**- JavaScript full-stack development:** *Next.js, Remix, Node.js, Apollo GraphQL, Vulcan, React, Electron, Express, bases de données SQL, MongoDB...*
-**- Technical writing:** *literature review, scientific journalism*
-**- Data science:**  *dashboard conception, algorithm design*
-**- Teaching:** *web development entry level, advanced Next.js and Jamstack, going full-stack with Vulcan.js and GraphQL*
+I do:
+- **JavaScript full-stack development:** *Next.js, Remix, Node.js, Apollo GraphQL, Vulcan, React, Electron, Express, bases de données SQL, MongoDB...*
+- **Technical writing:** *literature review, scientific journalism*
+- **Data science:**  *dashboard conception, algorithm design*
+- **Teaching:** *web development entry level, advanced Next.js and Jamstack, going full-stack with Vulcan.js and GraphQL*
 
-Reach me out [mailto:eb@lbke.fr](via mail)
+
+Reach me out <a href="mailto:eb@lbke.fr">via mail</a>
