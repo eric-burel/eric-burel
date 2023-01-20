@@ -4,13 +4,17 @@ I am full-stack engineer from France 🇫🇷 and I own a company named LBKE.
 
 ## My open source work
 
-I am the maintainer of [Vulcan](https://vulcan-docs.vercel.app/), an open source JavaScript toolkit. 
+I am a member of the [Devographics collective](https://www.devographics.com/) that runs the State of JS, CSS and GraphQL surveys (and maybe more soon?).
 
-With Vulcan, you can create full-stack Next.js app and GraphQL apps in a matter of days:
+Find our [open source monorepository here](https://github.com/Devographics/Monorepo).
 
-[![Vulcan Next logo](https://raw.githubusercontent.com/eric-burel/eric-burel/main/vn-full-color-padded-1000-500.png)](https://vulcan-docs.vercel.app/)
+![Devographics logo](https://www.devographics.com/devographics-logo.png)
 
-You can find all my articles on [Medium](https://medium.com/@eric.burel)
+You can find all my articles on [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
+
+I've formalized a pattern for statically rendering personalized content (yes, it's possible and it happens all the time!), named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
+
+I am Next.js expert, you can discover my [3 days live training here](https://www.nextjscourse.online/).
 
 ## As a freelancer
 
@@ -20,10 +24,10 @@ For bigger companies: I modernize your technological stack, using the latest and
 If you live in France, you can get tax cuts when you hire me!
 
 I do:
-- **JavaScript full-stack development:** *Next.js, Remix, Node.js, Apollo GraphQL, Vulcan, React, Electron, Express, bases de données SQL, MongoDB...*
+- **JavaScript full-stack development:** *Next.js, Node.js, GraphQL, React, Electron, Express MongoDB, webassembly...*
 - **Technical writing:** *literature review, scientific journalism*
 - **Data science:**  *dashboard conception, algorithm design*
-- **Teaching:** *web development entry level, advanced Next.js and Jamstack, going full-stack with Vulcan.js and GraphQL*
+- **Teaching:** *web development entry level, advanced Next.js and Jamstack*
 
 
 Reach me out <a href="mailto:eb@lbke.fr">via mail</a>
