@@ -10,7 +10,7 @@ Find our [open source monorepository here](https://github.com/Devographics/Monor
 
 ![Devographics logo](https://www.devographics.com/devographics-logo.png)
 
-You can find all my articles on [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
+You can find all my articles on [Prismic blog](https://prismic.io/blog/authors/eric-burel), [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
 
 I've formalized a pattern for statically rendering personalized content (yes, it's possible and it happens all the time!), named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
 
