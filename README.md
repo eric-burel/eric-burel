@@ -2,6 +2,12 @@
 
 I am full-stack engineer from France 🇫🇷 and I own a company named LBKE. 
 
+## As a teacher
+
+I am Next.js expert, you can discover my [Next.js Patterns online course here](https://www.nextjspatterns.com) and my [3 days live training at Human Coders there](https://www.nextjscourse.online/)
+
+[![Next.js Patterns logo](https://nextjspatterns.com/patterns_logo_text_right.svg)](https://www.nextjspatterns.com)
+
 ## My open source work
 
 I am a member of the [Devographics collective](https://www.devographics.com/) that runs the State of JS, CSS and GraphQL surveys (and maybe more soon?).
@@ -10,11 +16,11 @@ Find our [open source monorepository here](https://github.com/Devographics/Monor
 
 ![Devographics logo](https://www.devographics.com/devographics-logo.png)
 
+
 You can find all my articles on [Prismic blog](https://prismic.io/blog/authors/eric-burel), [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
 
 I've formalized a pattern for statically rendering personalized content (yes, it's possible and it happens all the time!), named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
 
-I am Next.js expert, you can discover my [3 days live training here](https://www.nextjscourse.online/).
 
 ## As a freelancer
 
