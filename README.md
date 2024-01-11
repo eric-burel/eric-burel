@@ -8,6 +8,12 @@ I am Next.js expert, you can discover my [Next.js Patterns online course here](h
 
 [![Next.js Patterns logo](https://nextjspatterns.com/patterns_logo_text_right.svg)](https://www.nextjspatterns.com)
 
+I've written a complete course around Next.js optimizations based on React Server Components and Static Revalidation, ["Blazing Fast Next.js with React Server Components"](https://www.newline.co/courses/blazing-fast-next.js-with-react-server-components)
+
+You can find all my articles on [Prismic blog](https://prismic.io/blog/authors/eric-burel), [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
+
+I've formalized a pattern for statically rendering personalized content (yes, it's possible and it happens all the time!), named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
+
 ## My open source work
 
 I am a member of the [Devographics collective](https://www.devographics.com/) that runs the State of JS, CSS and GraphQL surveys (and maybe more soon?).
@@ -15,11 +21,6 @@ I am a member of the [Devographics collective](https://www.devographics.com/) th
 Find our [open source monorepository here](https://github.com/Devographics/Monorepo).
 
 ![Devographics logo](https://www.devographics.com/devographics-logo.png)
-
-
-You can find all my articles on [Prismic blog](https://prismic.io/blog/authors/eric-burel), [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
-
-I've formalized a pattern for statically rendering personalized content (yes, it's possible and it happens all the time!), named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
 
 
 ## As a freelancer
