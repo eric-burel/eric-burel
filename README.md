@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am full-stack engineer from France 🇫🇷 and I own a company named LBKE. 
+I am full-stack engineer from France <img src="https://www.ericburel.tech/icons/frflag.svg" alt="🇫🇷" /> and I own a company named LBKE. 
 
 ## As a teacher
 
@@ -10,7 +10,7 @@ I am Next.js expert, you can discover my [Next.js Patterns online course here](h
 
 I've written a complete course around Next.js optimizations based on React Server Components and Static Revalidation, ["Blazing Fast Next.js with React Server Components"](https://www.newline.co/courses/blazing-fast-next.js-with-react-server-components)
 
-You can find all my articles on [Prismic blog](https://prismic.io/blog/authors/eric-burel), [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
+You can find all my articles on [my technical blog](https://www.ericburel.tech/blog), [Prismic blog](https://prismic.io/blog/authors/eric-burel), [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
 
 I've formalized a pattern for statically rendering personalized content (yes, it's possible and it happens all the time!), named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
 
@@ -22,11 +22,10 @@ Find our [open source monorepository here](https://github.com/Devographics/Monor
 
 ![Devographics logo](https://www.devographics.com/devographics-logo.png)
 
-
 ## As a freelancer
 
 For startups and entrepreneurs: I quickly build highly scalable web architecture, using modern JavaScript and Python technologies.
-For bigger companies: I modernize your technological stack, using the latest and most efficient development patterns
+For bigger companies: I modernize your technological stack, using the latest and most efficient development patterns.
 
 If you live in France, you can get tax cuts when you hire me!
 
