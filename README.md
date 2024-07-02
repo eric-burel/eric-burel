@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am full-stack engineer from France <img src="https://www.ericburel.tech/icons/frflag.svg" alt="🇫🇷" width="16px" height="16px" /> and I own a company named LBKE. 
+I am full-stack engineer from Europe (<img src="https://www.ericburel.tech/icons/frflag.svg" alt="🇫🇷" width="16px" height="16px" />) and I own a company named LBKE. 
 
 ## As a teacher
 
@@ -27,7 +27,7 @@ Find our [open source monorepository here](https://github.com/Devographics/Monor
 For startups and entrepreneurs: I quickly build highly scalable web architecture, using modern JavaScript and Python technologies.
 For bigger companies: I modernize your technological stack, using the latest and most efficient development patterns.
 
-If you live in France, you can get tax cuts when you hire me!
+If your company is based in France, you can get tax cuts when you hire me!
 
 I do:
 - **JavaScript full-stack development:** *Next.js, Node.js, GraphQL, React, Electron, Express MongoDB, webassembly...*
