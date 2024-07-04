@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am full-stack engineer from Europe (<img src="https://www.ericburel.tech/icons/frflag.svg" alt="🇫🇷" width="16px" height="16px" />) and I own a company named LBKE. 
+I am full-stack engineer from Europe (<img src="https://www.ericburel.tech/icons/frflag.svg" alt="🇫🇷" width="16px" height="16px" style="display:inline-block;" />) and I own a company named LBKE. 
 
 ## As a teacher
 
