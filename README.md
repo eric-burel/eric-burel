@@ -14,7 +14,9 @@ You can find all my articles on [my technical blog](https://www.ericburel.tech/b
 
 I've formalized a pattern for statically rendering personalized content, named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
 
-Speaking French? You can also discover my ["Fullstack avec Next.js" 3 days live training](https://www.formationnextjs.fr/)
+Speaking French? You can also discover my ["Fullstack avec Next.js" 3 days live training](https://www.lbke.fr/fullstack-nextjs) **Breaking news**: starting 2025, I am also teaching [Astro.js with a 3 days live training!](https://www.lbke.fr/fullstack-astrojs), don't miss it!
+
+You can read free resources in French about Next.js and Astro.js on my [company website's resource section](https://www.lbke.fr/ressources).
 
 ## My open source work
 
@@ -34,8 +36,8 @@ If your company is based in France, you can get tax cuts when you hire me!
 I do:
 - **JavaScript full-stack development:** *Next.js, Node.js, GraphQL, React, Electron, Express MongoDB, webassembly...*
 - **Technical writing:** *literature review, scientific journalism*
-- **Data science:**  *dashboard conception, algorithm design*
 - **Teaching:** *web development entry level, advanced Next.js and Jamstack*
+- **LangChain LLM pipeline design:** *automated content transformation, data labelling...*
 
 
 Reach me out <a href="mailto:eb@lbke.fr">via mail</a>
