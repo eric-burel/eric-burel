@@ -14,7 +14,9 @@ You can find all my articles on [my technical blog](https://www.ericburel.tech/b
 
 I've formalized a pattern for statically rendering personalized content, named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
 
-Speaking French? You can also discover my ["Fullstack avec Next.js" 3 days live training](https://www.lbke.fr/fullstack-nextjs) **Breaking news**: starting 2025, I am also teaching [Astro.js with a 3 days live training!](https://www.lbke.fr/fullstack-astrojs), don't miss it!
+Speaking French? You can also discover my ["Fullstack avec Next.js" 3 days live training](https://www.lbke.fr/fullstack-nextjs) 
+
+**Breaking news**: starting 2025, I am also teaching Astro.js [with a 3 days live training in French!](https://www.lbke.fr/fullstack-astrojs). Don't miss it!
 
 You can read free resources in French about Next.js and Astro.js on my [company website's resource section](https://www.lbke.fr/ressources).
 
