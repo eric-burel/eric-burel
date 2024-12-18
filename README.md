@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am full-stack engineer from Europe and I own a company named LBKE. 
+I am full-stack engineer from France and I own a company named [LBKE](https://www.lbke.fr/). 
 
 ## As a teacher
 
