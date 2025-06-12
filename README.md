@@ -4,23 +4,25 @@ I am full-stack engineer from France and I own a company named [LBKE](https://ww
 
 ## As a teacher
 
-I am Next.js expert, you can discover my [NextPatterns online course here](https://nextpatterns.dev).
+I train people to the emerging discipline of "LLM development" with technologies such as LangChain/LangGraph, Mastra, Vercel AI SDK.
+
+LLMs are smart, but it's even better when you use them smartly. Being an LLM developer is about crafting complex autonomous software solutions based on AI, aka "Agents".
+
+I am also a Next.js expert, you can discover my [NextPatterns online course here](https://nextpatterns.dev).
 
 [![NextPatterns logo](https://nextpatterns.dev/logo.svg)](https://nextpatterns.dev)
 
-I've written a complete course around Next.js optimizations based on React Server Components and Static Revalidation, ["Blazing Fast Next.js with React Server Components"](https://www.newline.co/courses/blazing-fast-next.js-with-react-server-components)
+You can find all my articles on [my technical blog](https://www.ericburel.tech/blog) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
 
-You can find all my articles on [my technical blog](https://www.ericburel.tech/blog), [Prismic blog](https://prismic.io/blog/authors/eric-burel), [Medium](https://medium.com/@eric.burel) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
+I've previously formalized a pattern for statically rendering personalized content, named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
 
-I've formalized a pattern for statically rendering personalized content, named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
-
-Speaking French? You can also discover my ["Fullstack avec Next.js" 3 days live training](https://www.lbke.fr/fullstack-nextjs) 
-
-**Breaking news**: starting 2025, I am also teaching Astro.js [with a 3 days live training in French!](https://www.lbke.fr/fullstack-astrojs). Don't miss it!
-
-You can read free resources in French about Next.js and Astro.js on my [company website's resource section](https://www.lbke.fr/ressources).
+🔵⚪🔴 Speaking French? Discover my professional trainings at [LBKE](https://www.lbke.fr/formations) as well as my [numerous free resources for developers](https://www.lbke.fr/ressources)
 
 ## My open source work
+
+I contribute to the generative AI ecosystem with local trainings and conferences in my hometown. 
+
+Checkout my [introduction to LangChain (French)](https://www.youtube.com/watch?v=0ImjWIo5fyM)
 
 I am a member of the [Devographics collective](https://www.devographics.com/) that runs the State of JS, CSS and GraphQL surveys (and maybe more soon?).
 
@@ -30,16 +32,14 @@ Find our [open source monorepository here](https://github.com/Devographics/Monor
 
 ## As a freelancer
 
-For startups and entrepreneurs: I quickly build highly scalable web architecture, using modern JavaScript and Python technologies.
-For bigger companies: I modernize your technological stack, using the latest and most efficient development patterns.
-
 If your company is based in France, you can get tax cuts when you hire me!
 
 I do:
-- **JavaScript full-stack development:** *Next.js, Node.js, GraphQL, React, Electron, Express MongoDB, webassembly...*
 - **Technical writing:** *literature review, scientific journalism*
-- **Teaching:** *web development entry level, advanced Next.js and Jamstack*
+- **Teaching:** *LLM development, LangChain/LangGraph, web development entry level, Astro.js, advanced Next.js*
 - **LangChain LLM pipeline design:** *automated content transformation, data labelling...*
+- **JavaScript full-stack development:** *Next.js, Astro.js, Node.js, React...*
+
 
 
 Reach me out <a href="mailto:eb@lbke.fr">via mail</a>
