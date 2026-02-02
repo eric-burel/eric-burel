@@ -4,13 +4,9 @@ I am full-stack engineer from France and I own a company named [LBKE](https://ww
 
 ## As a teacher
 
-I train people to the emerging discipline of "LLM development" with technologies such as LangChain/LangGraph, Mastra, Vercel AI SDK.
-
 LLMs are smart, but it's even better when you use them smartly. Being an LLM developer is about crafting complex autonomous software solutions based on AI, aka "Agents".
 
-I am also a Next.js expert, you can discover my [NextPatterns online course here](https://nextpatterns.dev).
-
-[![NextPatterns logo](https://nextpatterns.dev/logo.svg)](https://nextpatterns.dev)
+I train developers to AI agent programming with technologies such as LangChain/LangGraph, Mastra, Vercel AI SDK.
 
 You can find all my articles on [my technical blog](https://www.ericburel.tech/blog) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
 
@@ -36,12 +32,10 @@ If your company is based in France, you can get tax cuts when you hire me!
 
 I do:
 - **Technical writing:** *literature review, scientific journalism*
-- **Teaching:** *LLM development, LangChain/LangGraph, web development entry level, Astro.js, advanced Next.js*
+- **Teaching:** *LLM development, Mastra, AI SDK, LangChain/LangGraph, web development entry level, Astro.js, advanced Next.js*
 - **LangChain LLM pipeline design:** *automated content transformation, data labelling...*
 - **JavaScript full-stack development:** *Next.js, Astro.js, Node.js, React...*
 
-
-
 Reach me out <a href="mailto:eb@lbke.fr">via mail</a>
 
-**[Sponsor me on GitHub](https://github.com/sponsors/eric-burel)**
+[Sponsor me on GitHub](https://github.com/sponsors/eric-burel)
