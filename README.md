@@ -6,7 +6,7 @@ I am full-stack engineer from France and I own a company named [LBKE](https://ww
 
 LLMs are smart, but it's even better when you use them smartly. Being an LLM developer is about crafting complex autonomous software solutions based on AI, aka "Agents".
 
-I train developers to AI agent programming with technologies such as LangChain/LangGraph, Mastra, Vercel AI SDK.
+I train developers to AI agents programming with technologies such as LangChain/LangGraph, Mastra, Vercel AI SDK.
 
 You can find all my articles on [my technical blog](https://www.ericburel.tech/blog) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
 
