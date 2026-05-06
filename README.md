@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am full-stack engineer from France and I own a company named [LBKE](https://www.lbke.fr/). 
+I am a professional trainer from France and I own a company named [LBKE](https://www.lbke.fr/). 
 
 ## As a teacher
 
@@ -32,10 +32,9 @@ If your company is based in France, you can get tax cuts when you hire me!
 
 I do:
 - **Technical writing:** *literature review, scientific journalism*
-- **Teaching:** *LLM development, Mastra, AI SDK, LangChain/LangGraph, web development entry level, Astro.js, advanced Next.js*
-- **LangChain LLM pipeline design:** *automated content transformation, data labelling...*
-- **JavaScript full-stack development:** *Next.js, Astro.js, Node.js, React...*
+- **Teaching:** *Agentic AI, LLMs, Mastra, AI SDK, LangChain/LangGraph*
+- **LangChain LLM pipeline design:** *RAG, agents, automated content transformation, data labelling...*
 
-Reach me out <a href="mailto:eb@lbke.fr">via mail</a>
+Reach out to me <a href="mailto:eb@lbke.fr">via mail</a>
 
 [Sponsor me on GitHub](https://github.com/sponsors/eric-burel)
