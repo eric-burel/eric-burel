@@ -8,8 +8,6 @@ LLMs are smart, but it's even better when you use them smartly. Being an LLM dev
 
 I train developers to AI agents programming with technologies such as LangChain/LangGraph, Mastra, Vercel AI SDK.
 
-You can find all my articles on [my technical blog](https://www.ericburel.tech/blog) and [Smashing magazine](https://www.smashingmagazine.com/author/eric-burel/).
-
 I've previously formalized a pattern for statically rendering personalized content, named [Segmented Rendering](https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/).
 
 🔵⚪🔴 Speaking French? Discover my professional trainings at [LBKE](https://www.lbke.fr/formations) as well as my [numerous free resources for developers](https://www.lbke.fr/ressources)
